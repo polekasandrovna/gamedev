@@ -1,0 +1,15 @@
+C:\Users\lashi\source\repos\Lab1\Lab1\bin\Release\Lab1.exe.config
+C:\Users\lashi\source\repos\Lab1\Lab1\bin\Release\Lab1.exe
+C:\Users\lashi\source\repos\Lab1\Lab1\bin\Release\Lab1.pdb
+C:\Users\lashi\source\repos\Lab1\Lab1\obj\Release\MainWindow.g.cs
+C:\Users\lashi\source\repos\Lab1\Lab1\obj\Release\App.g.cs
+C:\Users\lashi\source\repos\Lab1\Lab1\obj\Release\Lab1_MarkupCompile.cache
+C:\Users\lashi\source\repos\Lab1\Lab1\obj\Release\Lab1_MarkupCompile.lref
+C:\Users\lashi\source\repos\Lab1\Lab1\obj\Release\MainWindow.baml
+C:\Users\lashi\source\repos\Lab1\Lab1\obj\Release\Lab1.g.resources
+C:\Users\lashi\source\repos\Lab1\Lab1\obj\Release\Lab1.Properties.Resources.resources
+C:\Users\lashi\source\repos\Lab1\Lab1\obj\Release\Lab1.csproj.GenerateResource.cache
+C:\Users\lashi\source\repos\Lab1\Lab1\obj\Release\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\lashi\source\repos\Lab1\Lab1\obj\Release\Lab1.exe
+C:\Users\lashi\source\repos\Lab1\Lab1\obj\Release\Lab1.pdb
+C:\Users\lashi\source\repos\Lab1\Lab1\obj\Release\Lab1.csproj.AssemblyReference.cache
